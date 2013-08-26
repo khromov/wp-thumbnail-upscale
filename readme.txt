@@ -13,9 +13,12 @@ This plugin enables upscaling of thumbnails for small media attachments. The def
 you are never guaranteed a certain size for a thumbnail format. This plugin corrects that and upscales small images to the specified thumbnail dimensions.
 This is beneficial in grid layouts where images of different sizes can make the grid malfunction.
 
+[Check screenshots for an example!](http://wordpress.org/plugins/thumbnail-upscale/screenshots/)
+
 Important: Your thumbnails format must have the crop setting enabled to be processed by this plugin.
 
 **Usage**
+
 After you have enabled Thumbnail Upscale plugin, all your future uploaded images will be upscaled.
 For existing images, install and run [Force Regenerate Thumbnails](http://wordpress.org/plugins/force-regenerate-thumbnails/)
 This will upscale your existing media images!
