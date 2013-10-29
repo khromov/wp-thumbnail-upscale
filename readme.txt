@@ -2,7 +2,7 @@
 Contributors: khromov
 Tags: editor, images, image, thumbnails, thumbnail
 Requires at least: 3.5.1
-Tested up to: 3.6
+Tested up to: 3.7
 Stable tag: 1.0
 License: GPL2
 
