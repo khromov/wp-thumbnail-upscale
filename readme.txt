@@ -47,6 +47,5 @@ Please write in the support forums for feature requests!
 = 1.1 =
 * Fixed crop positions introduced in WordPress 3.9. Props @jackrugile
 
-== Upgrade Notice ==
 = 1.0 =
 Initial release
