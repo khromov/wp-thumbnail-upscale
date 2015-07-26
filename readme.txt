@@ -3,7 +3,7 @@ Contributors: khromov
 Tags: editor, images, image, thumbnails, thumbnail
 Requires at least: 3.5.1
 Tested up to: 3.7
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPL2
 
 Enables upscaling of thumbnails for small media attachments
@@ -44,8 +44,8 @@ Please write in the support forums for feature requests!
 
 == Changelog ==
 
-= 1.0 =
-* Initial release
+= 1.1 =
+* Fixed crop positions introduced in WordPress 3.9. Props @jackrugile
 
 == Upgrade Notice ==
 = 1.0 =
